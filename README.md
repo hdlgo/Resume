@@ -2,7 +2,7 @@
 ## Resume
 #### 预览
 
-[预览]()
+[预览](https://hdlgo.github.io/Resume/)
 
 
 #### 打印方法
